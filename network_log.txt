@@ -1,0 +1,24 @@
+[2026-02-22 22:31:29] PING google.com
+
+Pinging google.com [2607:f8b0:4023:1804::65] with 32 bytes of data:
+Reply from 2607:f8b0:4023:1804::65: time=13ms 
+Reply from 2607:f8b0:4023:1804::65: time=16ms 
+Reply from 2607:f8b0:4023:1804::65: time=14ms 
+
+Ping statistics for 2607:f8b0:4023:1804::65:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 13ms, Maximum = 16ms, Average = 14ms
+----------------------------------------
+[2026-02-22 22:38:04] PING google.com
+
+Pinging google.com [2607:f8b0:4023:1804::71] with 32 bytes of data:
+Reply from 2607:f8b0:4023:1804::71: time=14ms 
+Reply from 2607:f8b0:4023:1804::71: time=15ms 
+Reply from 2607:f8b0:4023:1804::71: time=16ms 
+
+Ping statistics for 2607:f8b0:4023:1804::71:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 14ms, Maximum = 16ms, Average = 15ms
+----------------------------------------
