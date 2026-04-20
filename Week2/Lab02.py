@@ -39,5 +39,5 @@ else:
             print("You lose!")
 
         # String comparison
-        if playerName != "Rock":
+        if playerName != "Rock":2
             print("You didn't pick the classic Rock...")
